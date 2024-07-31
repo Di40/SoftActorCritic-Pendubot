@@ -1,5 +1,7 @@
 # Pendubot swing-up using Soft Actor-Critic
 
+![](https://github.com/Di40/SoftActorCritic-Pendubot/blob/main/results/SAC_pendubot_swingup.gif)
+
 First execute the setup file, which will create double_pendulum folder, by downloading it from GitHub:
 > bash setup.sh
 
